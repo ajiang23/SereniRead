@@ -1,6 +1,7 @@
 # SereniRead
 
 **An AI-powered reading companion** that helps users discover books, filter out unwanted content, and get instant summaries.
+![image](https://github.com/user-attachments/assets/17782909-304c-4603-9f80-b2d64ef5c68c)
 
 ---
 
