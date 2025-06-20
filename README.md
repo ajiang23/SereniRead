@@ -80,14 +80,14 @@ Interactive docs: http://localhost:8001/docs
 ```
 ### 3. Frontend setup
 ```
-cd ../frontend
+cd frontend
 npm install
 npm start                       
 
 Once it’s running, open your browser to:
 http://localhost:3000
 
-The React app will read REACT_APP_API_BASE_URL from .env and send its requests there (default: http://localhost:8000).
+The React app will read REACT_APP_API_BASE_URL from .env and send its requests there (default: http://localhost:8001).
 ```
 
 ## Dependencies
