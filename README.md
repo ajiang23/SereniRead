@@ -75,8 +75,8 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 Once Uvicorn is running, open your browser to:
-API root: http://localhost:8000
-Interactive docs: http://localhost:8000/docs
+API root: http://localhost:8001
+Interactive docs: http://localhost:8001/docs
 ```
 ### 3. Frontend setup
 ```
